@@ -1,0 +1,60 @@
+[
+  {
+    "text": "Hem",
+    "startPage": true
+  },
+  {
+    "text": "Spelplan"
+  },
+  {
+    "text": "Kontakt"
+  },
+  {
+    "text": "Podcast"
+  },
+  {
+    "text": "ARTISTEN",
+    "header": true
+  },
+  {
+    "text": "Discografi"
+  },
+  {
+    "text": "Video"
+  },
+  {
+    "text": "Texter"
+  },
+  {
+    "text": "Recensioner"
+  },
+  {
+    "text": "Shop"
+  },
+  {
+    "text": "Press"
+  },
+  {
+    "text": "Bilder",
+    "id": "bilder-artist"
+  },
+  {
+    "text": "Gästbok",
+    "id": "gastbok"
+  },
+  {
+    "text": "TRUBADUREN",
+    "header": true
+  },
+  {
+    "text": "Bilder",
+    "id": "bilder-trubadur"
+  },
+  {
+    "text": "Video",
+    "id": "video-trubadur"
+  },
+  {
+    "text": "Referenser"
+  }
+]

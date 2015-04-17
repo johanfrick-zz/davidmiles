@@ -1,0 +1,9 @@
+bilder:
+Antingen länkar till externa bilder (som startar på http:// eller https://) ELLER bilder som ligger lagrade på one.com
+
+spotify:
+Spotify-id, hittas om du tex kopierar spotify länkar spotify:artist:4z4NwEHgD7Ykjs1L0gsKCI eller http://open.spotify.com/artist/4z4NwEHgD7Ykjs1L0gsKCI
+
+video-artist:
+youtube-id, text https://www.youtube.com/watch?v=AXf7meAEQnU
+
